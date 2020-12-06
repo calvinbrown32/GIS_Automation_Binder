@@ -3,7 +3,7 @@ This jupyter binder was created to share a basic python environment across platf
 This opens up the possibility to share powerful tools worldwide, automate analyses, automate data processing and collection, and much more. 
 
 ## For the pin-up, please start by opening up the Automating GIS with Python Revisions notebook. It may take a few minutes to load. Once it loads, you do not need to do anything. I am going to walk you through an example before we use the notebook. 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/calvinbrown32/GIS_Automation_Binder.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/calvinbrown32/GIS_Automation_Binder.git/master?filepath=Automating GIS with Python -- Mapping Bicycle Mode Share in California.ipynb)
 
 ## Goals
 - Testing Binder
