@@ -11,4 +11,5 @@ This opens up the possibility to share powerful tools worldwide, automate analys
 - Creating Interactive maps
 - Exporting modified data for use in Arcmap
 
+### *It is also important to note that the script pulls data from a filepath that is only accessible while running the script through the Binder itself. 
 
